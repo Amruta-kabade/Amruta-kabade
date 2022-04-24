@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amruta Kabade</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [Computer-Science/BooksTech project](https://github.com/Amruta-kabade/ComputerScience-BooksTech)
+- 🔭 I have recently developed a website, do visit at https://bookstechcse.azurewebsites.net/. Have fun chatting with the bot integrated :)
 
 - 🌱 I’m currently learning **Blockchain and Cloud services**
 
