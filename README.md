@@ -4,6 +4,9 @@
 - 🔭 I have recently developed a website, do visit at https://amruta-kabade.github.io/LearnIt/. Have fun chatting with the bot integrated :)
 
 - 🌱 I’m currently learning **Blockchain and Cloud services**
+- 🔭 **MERN Stack Developer**
+- Research on Self Supervised Semantic Segmentation
+- Recently Published a survey paper "Study on Different Meta-Learning Optimization Techniques" in I2CT IEEE Conference.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
